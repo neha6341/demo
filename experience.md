@@ -9,6 +9,7 @@
 | 12th        |       79%       |
 | BCA         |       78%       |
 | MCA         |       86%       |
+
 ## Hobbies
 
 - Drawing
