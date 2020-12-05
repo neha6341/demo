@@ -19,6 +19,3 @@
 - Making graphics on Illustrator
 
 My favorite Website is [The Dog Studio](https://dogstudio.co/).
-
-
-<span style="color: green"> Some green text </span>
