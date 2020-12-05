@@ -8,3 +8,9 @@
 | 12th        |       79%       |
 | BCA         |       78%       |
 | MCA         |       86%       |
+## Hobbies
+
+- Drawing
+- Travelling
+- Making graphics on Illustrator
+- Bulleted list
