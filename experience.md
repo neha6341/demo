@@ -12,7 +12,7 @@
 
 ### These are some designs made by me.
 
-## Hobbies
+## *Hobbies*
 
 - Drawing
 - Travelling
