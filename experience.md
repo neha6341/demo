@@ -7,7 +7,7 @@
 | BCA           | 78          |
 | MCA           | 86          |
 
-### _Graphic Designer (I am Bold)_
+### **Graphic Designer (I am Bold)**
 ![Display picture](photos/1.jpeg)![Display picture](photos/2.jpeg)![Display picture](photos/3.jpeg)![Display picture](photos/4.jpeg)
 
 ### These are some designs made by me.
