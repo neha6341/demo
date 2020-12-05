@@ -1,6 +1,6 @@
 ## Neha Sharma
 
-| Qualification | Description |
+| Qualification | Marks |
 |---------------|-------------|
 | 10th          | 80          |
 | 12th          | 79          |
